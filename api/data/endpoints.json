@@ -1,0 +1,34 @@
+[
+  {
+    "route": "/api/teams",
+    "description": "Returns the list of teams in the 2022 season"
+  },
+  {
+    "route": "/api/teams/:name",
+    "description": "Returns one specific team by its name"
+  },
+  {
+    "route": "/api/drivers",
+    "description": "Returns the list of drivers in the 2022 season"
+  },
+  {
+    "route": "/api/divers/:name",
+    "description": "Returns one specific driver by its name"
+  },
+  {
+    "route": "/api/races",
+    "description": "Returns the list of races in the 2022 season. This is not completed yet"
+  },
+  {
+    "route": "/api/races/:round",
+    "description": "Returns one specific race by its round number"
+  },
+  {
+    "route": "/api/circuits",
+    "description": "Returns the list of circuits in the 2022 season"
+  },
+  {
+    "route": "/api/circuits/:id",
+    "description": "Returns one specific circuit by its id. The id is determined by order in the season"
+  }
+]
