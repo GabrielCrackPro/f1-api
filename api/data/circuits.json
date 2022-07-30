@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "Bahrain International Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Bahrain%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png"
+    },
+    "firstGrandPrix": 2004,
+    "laps": 57,
+    "length": "5.412km",
+    "raceLength": "308.238km",
+    "lapRecord": "1:31:447"
+  },
+  {
+    "id": 2,
+    "name": "Jeddah Corniche Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png"
+    },
+    "firstGrandPrix": 2021,
+    "laps": 50,
+    "length": "6.174km",
+    "raceLength": "308.45km",
+    "lapRecord": "1:30:734"
+  },
+  {
+    "id": 3,
+    "name": "Albert Park Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png"
+    },
+    "firstGrandPrix": 1996,
+    "laps": 58,
+    "length": "5.278km",
+    "raceLength": "306.124km",
+    "lapRecord": "1:20:260"
+  },
+  {
+    "id": 4,
+    "name": "Autodromo Enzo e Dino Ferrari",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia%20Romagna%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png"
+    },
+    "firstGrandPrix": 1980,
+    "laps": 63,
+    "length": "4.909km",
+    "raceLength": "309.049km",
+    "lapRecord": "1:15:484"
+  },
+  {
+    "id": 5,
+    "name": "Miami International Autodrome",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Miami%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png"
+    },
+    "firstGrandPrix": 2022,
+    "laps": 57,
+    "length": "5.412km",
+    "raceLength": "308.326km",
+    "lapRecord": "1:31:361"
+  },
+  {
+    "id": 6,
+    "name": "Circuit de Barcelona-Catalunya",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png"
+    },
+    "firstGrandPrix": 1991,
+    "laps": 66,
+    "length": "4.675km",
+    "raceLength": "308.424km",
+    "lapRecord": "1:18:149"
+  },
+  {
+    "id": 7,
+    "name": "Circuit de Monaco",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Monte%20Carlo%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png"
+    },
+    "firstGrandPrix": 1950,
+    "laps": 78,
+    "length": "3.337km",
+    "raceLength": "260.286km",
+    "lapRecord": "1:12:909"
+  },
+  {
+    "id": 8,
+    "name": "Baku City Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Azerbaijan%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png"
+    },
+    "firstGrandPrix": 2016,
+    "laps": 51,
+    "length": "6.003km",
+    "raceLength": "306.049km",
+    "lapRecord": "1:43:009"
+  },
+  {
+    "id": 9,
+    "name": "Circuit Gilles-Villeneuve",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Canada%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png"
+    },
+    "firstGrandPrix": 1978,
+    "laps": 70,
+    "length": "4.361km",
+    "raceLength": "305.27km",
+    "lapRecord": "1:13:078"
+  },
+  {
+    "id": 10,
+    "name": "Silverstone Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Great%20Britain%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png"
+    },
+    "firstGrandPrix": 1950,
+    "laps": 52,
+    "length": "5.891km",
+    "raceLength": "306.198km",
+    "lapRecord": "1:27:097"
+  },
+  {
+    "id": 11,
+    "name": "Red Bull Ring",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Austria%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png"
+    },
+    "firstGrandPrix": 1970,
+    "laps": 71,
+    "length": "4.318km",
+    "raceLength": "306.452km",
+    "lapRecord": "1:05:619"
+  },
+  {
+    "id": 12,
+    "name": "Circuit Paul Ricard",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/France%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/France_Circuit.png"
+    },
+    "firstGrandPrix": 1971,
+    "laps": 53,
+    "length": "5.842km",
+    "raceLength": "309.690km",
+    "lapRecord": "1:32:740"
+  },
+  {
+    "id": 13,
+    "name": "Hungaroring",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Hungar%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png"
+    },
+    "firstGrandPrix": 1986,
+    "laps": 70,
+    "length": "4.381km",
+    "raceLength": "306.63km",
+    "lapRecord": "1:16:627"
+  },
+  {
+    "id": 14,
+    "name": "Circuit de Spa-Francorchamps",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Belgium%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png"
+    },
+    "firstGrandPrix": 1950,
+    "laps": 44,
+    "length": "7.004km",
+    "raceLength": "308.052km",
+    "lapRecord": "1:46:286"
+  },
+  {
+    "id": 15,
+    "name": "Circuit Zandvoort",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Netherlands%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png"
+    },
+    "firstGrandPrix": 1952,
+    "laps": 72,
+    "length": "4.259km",
+    "raceLength": "306.587km",
+    "lapRecord": "1:11:097"
+  },
+  {
+    "id": 16,
+    "name": "Autodromo Nazionale Monza",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Italy%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png"
+    },
+    "firstGrandPrix": 1950,
+    "laps": 53,
+    "length": "5.793km",
+    "raceLength": "306.720km",
+    "lapRecord": "1:21:046"
+  },
+  {
+    "id": 17,
+    "name": "Marina Bay Street Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Singapor%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/manual/races/Singapore/singapore_track.png"
+    },
+    "firstGrandPrix": 2008,
+    "laps": 61,
+    "length": "5.063km",
+    "raceLength": "308.706km",
+    "lapRecord": "1:41:905"
+  },
+  {
+    "id": 18,
+    "name": "Suzuka International Racing Course",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Japan%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png"
+    },
+    "firstGrandPrix": 1987,
+    "laps": 53,
+    "length": "5.807km",
+    "raceLength": "307.471km",
+    "lapRecord": "1:30:983"
+  },
+  {
+    "id": 19,
+    "name": "Circuit of The Americas",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/USA%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png"
+    },
+    "firstGrandPrix": 2012,
+    "laps": 56,
+    "length": "5.513km",
+    "raceLength": "308.405km",
+    "lapRecord": "1:36:169"
+  },
+  {
+    "id": 20,
+    "name": "Autódromo Hermanos Rodríguez",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Mexico%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png"
+    },
+    "firstGrandPrix": 1963,
+    "laps": 71,
+    "length": "4.304km",
+    "raceLength": "305.354km",
+    "lapRecord": "1:17:774"
+  },
+  {
+    "id": 21,
+    "name": "Autódromo José Carlos Pace",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track icons 4x3/Brazil carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png"
+    },
+    "firstGrandPrix": 1973,
+    "laps": 71,
+    "length": "4.309km",
+    "raceLength": "305.879km",
+    "lapRecord": "1:10:540"
+  },
+  {
+    "id": 22,
+    "name": "Yas Marina Circuit",
+    "map": {
+      "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Abu%20Dhab%20carbon.png",
+      "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png"
+    },
+    "firstGrandPrix": 2009,
+    "laps": 58,
+    "length": "5.281km",
+    "raceLength": "306.183km",
+    "lapRecord": ""
+  }
+]
