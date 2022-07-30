@@ -1,6 +1,7 @@
 const router = require("express").Router();
 
 const data = {
+  endpoints: require("./data/endpoints.json"),
   teams: require("./data/teams.json"),
   drivers: require("./data/drivers.json"),
   races: require("./data/races.json"),
@@ -13,6 +14,9 @@ router
       message: "Welcome to F1 22 API",
       endpoints: "Go to /api/endpoints",
     });
+  })
+  .get("/api/endpoints", (req, res) => {
+    res.json(data.endpoints);
   })
   .get("/api/teams", (req, res) => {
     res.json(data.teams);
