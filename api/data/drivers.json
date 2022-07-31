@@ -170,7 +170,7 @@
   {
     "number": 10,
     "name": "Pierre Gasly",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/helmet.img.png"
     },
@@ -182,7 +182,7 @@
   {
     "number": 22,
     "name": "Yuki Tsunoda",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/yuki-tsunoda/_jcr_content/helmet.img.png"
     },
@@ -194,7 +194,7 @@
   {
     "number": 5,
     "name": "Sebastian Vettel",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/helmet.img.png"
     },
@@ -206,7 +206,7 @@
   {
     "number": 18,
     "name": "Lance Stroll",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/helmet.img.png"
     },
@@ -218,7 +218,7 @@
   {
     "number": 23,
     "name": "Alexander Albon",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/helmet.img.png"
     },
@@ -230,7 +230,7 @@
   {
     "number": 6,
     "name": "Nicholas Latifi",
-    "image": {
+    "images": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png",
       "helmet": "https://www.formula1.com/content/fom-website/en/drivers/nicholas-latifi/_jcr_content/helmet.img.png"
     },
