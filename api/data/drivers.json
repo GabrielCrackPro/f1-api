@@ -160,7 +160,7 @@
     "name": "Mick Schumacher",
     "image": {
       "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/M/MICSCH02_Mick_Schumacher/micsch02.png",
-      "helemt": "https://www.formula1.com/content/fom-website/en/drivers/mick-schumacher/_jcr_content/helmet.img.png"
+      "helmet": "https://www.formula1.com/content/fom-website/en/drivers/mick-schumacher/_jcr_content/helmet.img.png"
     },
     "team": "Haas F1 Team",
     "country": "Germany",
