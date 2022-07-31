@@ -111,7 +111,7 @@
       {
         "number": 31,
         "name": "Esteban Ocon",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/esteban-ocon/_jcr_content/helmet.img.png"
         },
@@ -122,7 +122,7 @@
       {
         "number": 14,
         "name": "Fernando Alonso",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/fernando-alonso/_jcr_content/helmet.img.png"
         },
@@ -146,7 +146,7 @@
       {
         "number": 4,
         "name": "Lando Norris",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/helmet.img.png"
         },
@@ -157,7 +157,7 @@
       {
         "number": 3,
         "name": "Daniel Ricciardo",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/helmet.img.png"
         },
@@ -181,7 +181,7 @@
       {
         "number": 24,
         "name": "Zhou Guanyu",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/guanyu-zhou/_jcr_content/helmet.img.png"
         },
@@ -192,7 +192,7 @@
       {
         "number": 77,
         "name": "Valtteri Bottas",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/helmet.img.png"
         },
@@ -216,7 +216,7 @@
       {
         "number": 20,
         "name": "Kevin Magnussen",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/kevin-magnussen/_jcr_content/helmet.img.png"
         },
@@ -227,7 +227,7 @@
       {
         "number": 47,
         "name": "Mick Schumacher",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/M/MICSCH02_Mick_Schumacher/micsch02.png",
           "helemt": "https://www.formula1.com/content/fom-website/en/drivers/mick-schumacher/_jcr_content/helmet.img.png"
         },
@@ -251,7 +251,7 @@
       {
         "number": 10,
         "name": "Pierre Gasly",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/helmet.img.png"
         },
@@ -262,7 +262,7 @@
       {
         "number": 22,
         "name": "Yuki Tsunoda",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/yuki-tsunoda/_jcr_content/helmet.img.png"
         },
@@ -286,7 +286,7 @@
       {
         "number": 5,
         "name": "Sebastian Vettel",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/helmet.img.png"
         },
@@ -297,7 +297,7 @@
       {
         "number": 18,
         "name": "Lance Stroll",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/helmet.img.png"
         },
@@ -321,7 +321,7 @@
       {
         "number": 23,
         "name": "Alexander Albon",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/helmet.img.png"
         },
@@ -332,7 +332,7 @@
       {
         "number": 6,
         "name": "Nicholas Latifi",
-        "image": {
+        "images": {
           "avatar": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png",
           "helmet": "https://www.formula1.com/content/fom-website/en/drivers/nicholas-latifi/_jcr_content/helmet.img.png"
         },
