@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Bahrain International Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags 16x9/bahrain-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Bahrain%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png"
@@ -15,6 +16,7 @@
   {
     "id": 2,
     "name": "Jeddah Corniche Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/saudi-arabia-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png"
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "name": "Albert Park Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/australia-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png"
@@ -41,6 +44,7 @@
   {
     "id": 4,
     "name": "Autodromo Enzo e Dino Ferrari",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/italy-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia%20Romagna%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png"
@@ -54,6 +58,7 @@
   {
     "id": 5,
     "name": "Miami International Autodrome",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-states-of-america-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Miami%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png"
@@ -67,6 +72,7 @@
   {
     "id": 6,
     "name": "Circuit de Barcelona-Catalunya",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/spain-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png"
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "name": "Circuit de Monaco",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/monaco-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Monte%20Carlo%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png"
@@ -93,6 +100,7 @@
   {
     "id": 8,
     "name": "Baku City Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/azerbaijan-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Azerbaijan%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png"
@@ -106,6 +114,7 @@
   {
     "id": 9,
     "name": "Circuit Gilles-Villeneuve",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/canada-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Canada%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png"
@@ -119,6 +128,7 @@
   {
     "id": 10,
     "name": "Silverstone Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-kingdom-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Great%20Britain%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png"
@@ -132,6 +142,7 @@
   {
     "id": 11,
     "name": "Red Bull Ring",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/austria-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Austria%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png"
@@ -145,6 +156,7 @@
   {
     "id": 12,
     "name": "Circuit Paul Ricard",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/france-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/France%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/France_Circuit.png"
@@ -158,6 +170,7 @@
   {
     "id": 13,
     "name": "Hungaroring",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/hungary-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Hungar%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png"
@@ -171,6 +184,7 @@
   {
     "id": 14,
     "name": "Circuit de Spa-Francorchamps",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/belgium-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Belgium%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png"
@@ -184,6 +198,7 @@
   {
     "id": 15,
     "name": "Circuit Zandvoort",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/netherlands-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Netherlands%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png"
@@ -197,6 +212,7 @@
   {
     "id": 16,
     "name": "Autodromo Nazionale Monza",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/italy-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Italy%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png"
@@ -210,6 +226,7 @@
   {
     "id": 17,
     "name": "Marina Bay Street Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/singapore-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Singapor%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/manual/races/Singapore/singapore_track.png"
@@ -223,6 +240,7 @@
   {
     "id": 18,
     "name": "Suzuka International Racing Course",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/japan-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Japan%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png"
@@ -236,6 +254,7 @@
   {
     "id": 19,
     "name": "Circuit of The Americas",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-states-of-america-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/USA%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png"
@@ -249,6 +268,7 @@
   {
     "id": 20,
     "name": "Autódromo Hermanos Rodríguez",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/mexico-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Mexico%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png"
@@ -262,6 +282,7 @@
   {
     "id": 21,
     "name": "Autódromo José Carlos Pace",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/brazil-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track icons 4x3/Brazil carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png"
@@ -275,6 +296,7 @@
   {
     "id": 22,
     "name": "Yas Marina Circuit",
+    "flag": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-arab-emirates-flag.png",
     "map": {
       "simple": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Abu%20Dhab%20carbon.png",
       "detail": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png"
@@ -283,6 +305,6 @@
     "laps": 58,
     "length": "5.281km",
     "raceLength": "306.183km",
-    "lapRecord": ""
+    "lapRecord": "1:26:103"
   }
 ]
